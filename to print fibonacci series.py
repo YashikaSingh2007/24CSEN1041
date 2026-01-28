@@ -16,3 +16,15 @@ while True:
     i += 1
     if i > terms:
         break
+
+
+# OUTPUT:
+Enter the number of terms (greater than 2): 5
+Fibonacci Series:
+0
+1
+1
+2
+3
+
+
