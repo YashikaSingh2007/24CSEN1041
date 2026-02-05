@@ -34,6 +34,22 @@ print("you won", user_wins, "times.")
 print("The computer won", computer_wins, "times.")
 print("Game Over")
 
+
+#OUTPUT:
+Type Rock/Paper/Scissors or Q to quit.rock
+Computer picked paper.
+You lost!
+Type Rock/Paper/Scissors or Q to quit.paper
+Computer picked scissors.
+You lost!
+Type Rock/Paper/Scissors or Q to quit.scissors
+Computer picked paper.
+You won!
+Type Rock/Paper/Scissors or Q to quit.q
+you won 1 times.
+The computer won 2 times.
+Game Over
+
         
 
 
@@ -41,3 +57,4 @@ print("Game Over")
         
         
             
+
