@@ -3,7 +3,7 @@ user_wins=0
 computer_wins=0
 options= ["rock","paper","scissors"]
 while True:
-    user_input= input("Type Rock/Paper/Scissors or Q to quit.").lower()
+    user_input= input("Type Rock/Paper/Scissors or Q to quit:").lower()
     if user_input== "q":
         break
     if user_input not in options:
@@ -36,16 +36,16 @@ print("Game Over")
 
 
 #OUTPUT:
-Type Rock/Paper/Scissors or Q to quit.rock
+Type Rock/Paper/Scissors or Q to quit:rock
 Computer picked paper.
 You lost!
-Type Rock/Paper/Scissors or Q to quit.paper
+Type Rock/Paper/Scissors or Q to quit:paper
 Computer picked scissors.
 You lost!
-Type Rock/Paper/Scissors or Q to quit.scissors
+Type Rock/Paper/Scissors or Q to quit:scissors
 Computer picked paper.
 You won!
-Type Rock/Paper/Scissors or Q to quit.q
+Type Rock/Paper/Scissors or Q to quit:q
 you won 1 times.
 The computer won 2 times.
 Game Over
@@ -57,4 +57,5 @@ Game Over
         
         
             
+
 
