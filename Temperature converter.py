@@ -43,3 +43,78 @@ elif choice == 6:
     print(f"{temp}K = {kelvin_to_fahrenheit(temp)}°F")
 else:
     print("Invalid choice!")
+
+
+OUTPUT:
+Temperature Converter
+1. Celsius to Fahrenheit
+2. Fahrenheit to Celsius
+3. Celsius to Kelvin
+4. Kelvin to Celsius
+5. Fahrenheit to Kelvin
+6. Kelvin to Fahrenheit
+Choose an option (1-6): 3
+Enter the temperature value: 37
+37.0°C = 310.15K
+
+
+Temperature Converter
+1. Celsius to Fahrenheit
+2. Fahrenheit to Celsius
+3. Celsius to Kelvin
+4. Kelvin to Celsius
+5. Fahrenheit to Kelvin
+6. Kelvin to Fahrenheit
+Choose an option (1-6): 1
+Enter the temperature value: 40
+40.0°C = 104.0°F
+
+
+Temperature Converter
+1. Celsius to Fahrenheit
+2. Fahrenheit to Celsius
+3. Celsius to Kelvin
+4. Kelvin to Celsius
+5. Fahrenheit to Kelvin
+6. Kelvin to Fahrenheit
+Choose an option (1-6): 2
+Enter the temperature value: 109
+109.0°F = 42.77777777777778°C
+
+
+Temperature Converter
+1. Celsius to Fahrenheit
+2. Fahrenheit to Celsius
+3. Celsius to Kelvin
+4. Kelvin to Celsius
+5. Fahrenheit to Kelvin
+6. Kelvin to Fahrenheit
+Choose an option (1-6): 4
+Enter the temperature value: 203
+203.0K = -70.14999999999998°C
+
+
+Temperature Converter
+1. Celsius to Fahrenheit
+2. Fahrenheit to Celsius
+3. Celsius to Kelvin
+4. Kelvin to Celsius
+5. Fahrenheit to Kelvin
+6. Kelvin to Fahrenheit
+Choose an option (1-6): 5
+Enter the temperature value: 300
+300.0°F = 422.0388888888889K
+
+
+Temperature Converter
+1. Celsius to Fahrenheit
+2. Fahrenheit to Celsius
+3. Celsius to Kelvin
+4. Kelvin to Celsius
+5. Fahrenheit to Kelvin
+6. Kelvin to Fahrenheit
+Choose an option (1-6): 6
+Enter the temperature value: 53
+53.0K = -364.27°F
+
+
